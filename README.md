@@ -30,14 +30,18 @@ Going through right now.
 
 **Lecture 5: Building makemore Part 4: Becoming a Backprop Ninja**
 
+Not started yet.
 
 ---
 
 **Lecture 6: Building makemore Part 5: Building WaveNet**
 
+Not started yet.
+
 ---
 
 **Lecture 7: Let's build GPT: from scratch, in code, spelled out.**
 
+Not done, currently at 1:19:11 in the youtube video.    2023.11.28 p.m.
 
 ---
