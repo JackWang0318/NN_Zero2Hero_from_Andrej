@@ -43,5 +43,6 @@ Not started yet.
 **Lecture 7: Let's build GPT: from scratch, in code, spelled out.**
 
 Not done, currently at 1:19:11 in the youtube video.    2023.11.28 p.m.
+Done 1st notebook run through and the youtube video.    2023.11.30 a.m.
 
 ---
