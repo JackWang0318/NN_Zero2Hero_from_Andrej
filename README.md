@@ -6,7 +6,7 @@
 
 **Lecture 1: The spelled-out intro to neural networks and backpropagation: building micrograd**
 
-Going through right now at 1:31:24/ 2:25:51 of the video.
+Done 1st notebook run through in 2024.2.29-3.3
 
 ---
 
